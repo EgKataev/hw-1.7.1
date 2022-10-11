@@ -1,4 +1,4 @@
-public class циклы {
+public class цыклы {
 
     public static void main(String[] args) {
         //Задание 1
